@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.js": "/fun-for-fun-public/static/js/main.b1a357f8.js",
-    "index.html": "/fun-for-fun-public/index.html"
+    "main.js": "/static/js/main.b1a357f8.js",
+    "index.html": "/index.html"
   },
   "entrypoints": [
     "static/js/main.b1a357f8.js"
